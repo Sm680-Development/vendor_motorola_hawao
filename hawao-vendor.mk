@@ -48,51 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
     vendor/motorola/hawao/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_haptic.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Argo_Navis.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Argo_Navis.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Attentive.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Attentive.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Awake.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Awake.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Bird_Loop.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Bird_Loop.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Brilliant_Times.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Brilliant_Times.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Chimey_Phone.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Chimey_Phone.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Complex.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Complex.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Crazy_Dream.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Crazy_Dream.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Curve_Ball_Blend.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Curve_Ball_Blend.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Digital_Phone.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Digital_Phone.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Electrovision.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Electrovision.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Ether_Shake.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Ether_Shake.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Fateful_Words.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Fateful_Words.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Flutey_Phone.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Flutey_Phone.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Future_Funk.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Future_Funk.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Future_Hi_Tech.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Future_Hi_Tech.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Girtab.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Girtab.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Hello.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Hello.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Hexagon.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Hexagon.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Hydra.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Hydra.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Insert_Coin.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Insert_Coin.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Jumping_Dots.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Jumping_Dots.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Keys.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Keys.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Loopy.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Loopy.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Loopy_Lounge.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Loopy_Lounge.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Modular.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Modular.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Momentum.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Momentum.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Morning.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Morning.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Moto.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Moto.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Natural.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Natural.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_New_Player.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_New_Player.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Onward.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Onward.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Organ_Dub.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Organ_Dub.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Overclocked.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Overclocked.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Pegasus.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Pegasus.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Pyxis.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Pyxis.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Regrade.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Regrade.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Scarabaeus.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Scarabaeus.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Sceptrum.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Sceptrum.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Simple.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Simple.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Solarium.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Solarium.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Sparse.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Sparse.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/aw869x_rtp_Terrabytes.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw869x_rtp_Terrabytes.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_afe_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_afe_params.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_mono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_mono.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
