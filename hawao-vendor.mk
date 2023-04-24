@@ -39,8 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_edovtdr_1080p_643.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_edovtdr_1080p_643.xml \
     vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_visionox_1080p_643.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_visionox_1080p_643.xml \
     vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_visionoxrm_1080p_643.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_visionoxrm_1080p_643.xml \
-    vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml \
-    vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml \
     vendor/motorola/hawao/proprietary/vendor/etc/sec_s3nrn4v_hwreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn4v_hwreg.bin \
     vendor/motorola/hawao/proprietary/vendor/etc/sec_s3nrn4v_swreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn4v_swreg.bin \
     vendor/motorola/hawao/proprietary/vendor/etc/thermal-engine-hawao.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-hawao.conf \
