@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/etc/init/android.hardware.nfc@1.2-service.sec.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.nfc@1.2-service.sec.rc \
     vendor/motorola/hawao/proprietary/vendor/etc/init/init.ets.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.ets.rc \
     vendor/motorola/hawao/proprietary/vendor/etc/init/init.nfc.sec.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.nfc.sec.rc \
-    vendor/motorola/hawao/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/motorola/hawao/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/motorola/hawao/proprietary/vendor/etc/libnfc-sec-vendor.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-vendor.conf \
     vendor/motorola/hawao/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_edosd_1080p_643.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_edosd_1080p_643.xml \
