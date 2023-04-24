@@ -97,13 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-edovtdr-ft3519-63-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-edovtdr-ft3519-63-0000-hawao.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-visionox-ft3519-88-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-visionox-ft3519-88-0000-hawao.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-visionoxrm-ft3519-93-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-visionoxrm-ft3519-93-0000-hawao.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix-GTx8-18-01-racer.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-GTx8-18-01-racer.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix-gtx5-38-04-foles.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-gtx5-38-04-foles.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix-gtx5-40-04-parker.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-gtx5-40-04-parker.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix-gtx8-01-14-racerl.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix-gtx8-01-14-racerl.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix_cfg_group2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group2.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix_cfg_group2_parker.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group2_parker.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/goodix_cfg_group_boe_racerl.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_boe_racerl.bin \
     vendor/motorola/hawao/proprietary/vendor/lib/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxexternalformatutils.so \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so \
