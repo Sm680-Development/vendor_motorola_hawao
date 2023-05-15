@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_pid_2113_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2113_acf.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
+    vendor/motorola/hawao/proprietary/vendor/firmware/aw9610x_0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw9610x_0.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw_skt.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw_skt.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-edosd-ft3519-72-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-edosd-ft3519-72-0000-hawao.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-edovtdr-ft3519-63-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-edovtdr-ft3519-63-0000-hawao.bin \
